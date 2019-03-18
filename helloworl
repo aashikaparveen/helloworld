@@ -2,5 +2,5 @@ import java.util.*
 class helloworl{
 public static void main(String args[]){
 System.out.println("Hello aashi");
-System.out.println("hai wrld");}
+System.out.println("hai wrld g");}
 }
